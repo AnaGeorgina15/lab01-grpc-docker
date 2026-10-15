@@ -1,4 +1,4 @@
-# Calculadora gRPC con Python
+# Calculadora gRPC
 
 Este proyecto implementa una calculadora básica utilizando **gRPC y Protocol Buffers** para comunicar un cliente y un servidor desarrollados en Python.
 
