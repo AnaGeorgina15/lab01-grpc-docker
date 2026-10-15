@@ -153,7 +153,6 @@ deactivate
 
 ## Consideraciones
 
-- No compartas la carpeta `env/`; cada estudiante debe crear su propio entorno virtual.
 - Cuando cambie `calculadora.proto`, vuelve a generar los módulos del paso 3.
 - Cuando cambien las dependencias, actualiza `requirements.txt`.
 - Para ejecutar cliente y servidor en máquinas diferentes, configura la IP y el puerto de conexión.
